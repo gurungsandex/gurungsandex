@@ -7,11 +7,11 @@ I am a motivated cybersecurity professional with a passion for securing digital 
 
 ## Skills
 
-Cybersecurity            Security Protocols            Threat Detection            Incident Response            Network Security
-Security Awareness       Risk Management               Vulnerability Management    Security Compliance          Cryptography Basics
-Security Operations      Cloud Understanding           Intrusion Prevention        SIEM                         MITRE ATT&CK Framework
-Security Hardening       Endpoint Security             Detail-oriented             Communication                Team Collaboration
-Time Management          Leadership                  Problem-Solving 
+Cybersecurity,            Security Protocols,            Threat Detection,            Incident Response,            Network Security,
+Security Awareness,       Risk Management,               Vulnerability Management,    Security Compliance,          Cryptography Basics,
+Security Operations,      Cloud Understanding,           Intrusion Prevention,        SIEM,                         MITRE ATT&CK Framework,
+Security Hardening,       Endpoint Security,             Detail-oriented,             Communication,                Team Collaboration,
+Time Management,          Leadership,                  Problem-Solving 
 
 ## Tools
 <div>
