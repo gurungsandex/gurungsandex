@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/sandeshgrg/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a motivated cybersecurity professional with a passion for securing digital assets and mitigating risks. With a strong background in information security, risk management, and incident response, I am committed to continuous learning and staying updated on industry trends.
+I am highly motivated and results-oriented IT professional with a strong foundation in cybersecurity principles and a passion for information security. I am committed to continuous learning and staying updated on industry trends.
 
 
 ## Skills
