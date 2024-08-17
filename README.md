@@ -29,4 +29,3 @@ Time Management,          Leadership,                  Problem-Solving
 <img src="https://img.shields.io/badge/-Blue Team Junior Analyst -000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
