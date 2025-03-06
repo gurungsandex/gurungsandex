@@ -10,7 +10,7 @@ I am highly motivated and results-oriented IT professional with a strong foundat
 Cybersecurity,            Security Protocols,            Threat Detection,            Incident Response,            Network Security,
 Security Awareness,       Risk Management,               Vulnerability Management,    Security Compliance,          Cryptography Basics,
 Security Operations,      Cloud Understanding,           Intrusion Prevention,        SIEM,                         MITRE ATT&CK Framework,
-NIST CSF,                 ISO/IEC 27001,                 ISO/IEC 27002,               PCI DSS                       HIPAA,
+NIST CSF,                 ISO/IEC 27001,                 ISO/IEC 27002,               PCI DSS,                      HIPAA,
 Security Hardening,       Endpoint Security,             Detail-oriented,             Communication,                Team Collaboration,
 Time Management,          Leadership,                    Problem-Solving 
 
