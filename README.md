@@ -1,5 +1,5 @@
 # Hello, I'm Sandesh
-<a href="https://linkedin.com/in/sandeshgrg/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!-- <a href="https://linkedin.com/in/sandeshgrg/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 
 
 I am highly motivated and results-oriented IT professional with a strong foundation in cybersecurity principles and a passion for information security. I am committed to continuous learning and staying updated on industry trends.
